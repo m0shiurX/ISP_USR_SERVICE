@@ -3,7 +3,7 @@ This is going to be php based application for ISP to manage their users and serv
 
 
 Features:
-1. 
+1. No feature available now!
 2. 
 
 
